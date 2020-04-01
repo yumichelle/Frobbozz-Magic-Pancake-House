@@ -1,3 +1,6 @@
+command line argument
+`java FlipPancake array/list N`
+
 § Description of your algorithm for flipping the pancakes and the analysis of the worse-case being (3n-2) flips.
 NOTE - the output samples provided in HW2-instructions do not match the outputs from my algorithm. However, the way I wrote my algorithm still executes and runs under the requirements of the instructions.
 Step 1. given a parsed array from the command line argument, push those elements in the required data structure. To find how many top pancakes to flip, use a pointer as a comparison.
